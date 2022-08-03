@@ -1,2 +1,3 @@
 # jsPizza
-jsPizzaPage
+
+Github page of the jsPizzaStore
